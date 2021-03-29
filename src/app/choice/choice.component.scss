@@ -1,0 +1,27 @@
+
+h1 {
+  text-transform: uppercase;
+  font-size: 8rem;
+  color: #ff9900;
+  text-align: center;
+}
+
+
+button {
+  font-size: 1.5rem;
+  padding: 10px 25px;
+  border-radius: 12px;
+  outline: none;
+  border: none;
+}
+
+
+.container-fluid {
+  height: 100vh;
+    background: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.strike{text-decoration: line-through;}
